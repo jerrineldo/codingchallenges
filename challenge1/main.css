@@ -1,0 +1,45 @@
+.html {
+  box-sizing: border-box;
+}
+.employee-container {
+  width: 60%;
+  height: auto;
+  margin: 10px auto;
+  border: 1px solid black;
+}
+.image-container {
+  text-align: center;
+  display: block;
+}
+.rounded {
+  border-radius: 70%;
+  width: 40%;
+  padding: 10px;
+  margin-left: 40px;
+}
+.featured {
+  width: 40px;
+  float: right;
+  right: 10px;
+  top: 10px;
+  position: relative;
+}
+.heading {
+  text-align: center;
+}
+.name {
+  margin: 0 auto;
+  width: 60%;
+  text-align: center;
+}
+.bio {
+  margin: 15px;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: justify;
+}
+.button {
+  width: auto;
+  color: black;
+  margin: 5px;
+}
